@@ -34,5 +34,3 @@ class Student(Person):
 Leila= Student("mechanical","mpe/41/19",5)
 print([Leila.course,Leila.registration_number,Leila.year])
 print(str(Leila))
-
-Ian= Student("caren","alex")
